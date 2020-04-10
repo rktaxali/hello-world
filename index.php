@@ -10,3 +10,5 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
+
+// This line added at 4.26 pm on the master maintained at github.com/rktaxali
