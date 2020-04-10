@@ -1,3 +1,4 @@
+// This line was added at 1201 hrs on Aoril 10 in a branch
 <?php
 	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
 		$uri = 'https://';
